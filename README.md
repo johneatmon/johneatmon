@@ -1,6 +1,5 @@
-I’m John Eatmon, a multidiscipline designer, developer, and creative living in Tacoma, WA. I currently lead design and development efforts at [ProSource](https://www.getprosource.com/), an Orlando-based technology services provider.
+I’m John Eatmon, a full stack developer and mountain climber living in Seattle, WA. I am currently building internet software at [UnitedHealthcare](https://www.uhc.com/).
 
 **Links**
 - [Read my résumé](https://read.cv/johneatmon)
-- [Check out my portfolio](https://eatmon.co/)
-- [Browse my Dribbble shots](https://dribbble.com/johneatmon)
+- [Check out my website](https://eatmon.co/)
